@@ -1,1 +1,1 @@
-script that print path to working directory
+script changes working directory to home
