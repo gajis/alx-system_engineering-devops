@@ -1,1 +1,1 @@
-script changes working directory to home
+display current directory content in long format
