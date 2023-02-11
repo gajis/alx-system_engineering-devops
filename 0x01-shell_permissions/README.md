@@ -3,3 +3,4 @@ script that print user group
 3. script changes ownership
 4 script to create empry file
 5 script that add execute permission to file owners
+6 script add multiple permissions 
