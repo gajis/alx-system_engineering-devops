@@ -2,3 +2,4 @@ task 0 script switches current user to betty
 script that print user group
 3. script changes ownership
 4 script to create empry file
+5 script that add execute permission to file owners
