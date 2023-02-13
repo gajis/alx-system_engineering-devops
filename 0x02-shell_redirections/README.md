@@ -1,3 +1,1 @@
-print Hello, World
-save current state of directory
-displays a confused smiley
+script that displays a xonfused smiley
