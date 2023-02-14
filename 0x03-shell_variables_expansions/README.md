@@ -3,3 +3,4 @@ Task 0. script creates an alias
 2. add /action to the PATH /action
 3. A script that counts the number of directories in the PATH
 4. Script that lists environment variables
+5. Script that lists all localvariables and environment variables, and functions
