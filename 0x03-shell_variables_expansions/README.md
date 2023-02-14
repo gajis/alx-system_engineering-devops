@@ -5,3 +5,4 @@ Task 0. script creates an alias
 4. Script that lists environment variables
 5. Script that lists all localvariables and environment variables, and functions
 6. Script that creates a new local variable
+7. Script that creates a new global variable
