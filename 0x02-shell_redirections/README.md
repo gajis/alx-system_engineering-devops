@@ -10,3 +10,4 @@ script that displays a xonfused smiley
 12 Script that displays the 10 newest files in the current directory
 13 Script that takes a list of words and print only words that appear once
 14 Script display lines containing the pattern root from file /etc/passwd
+Script display number of lines that contain the pattern "bin" in file /etc/passwd
