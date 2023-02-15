@@ -8,3 +8,4 @@ script that displays a xonfused smiley
 8 Script that writes into file ls_cwd_content the result of ls -la
 21 Script that reverse its input
 12 Script that displays the 10 newest files in the current directory
+13 Script that takes a list of words and print only words that appear once
