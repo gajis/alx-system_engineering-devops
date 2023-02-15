@@ -4,3 +4,4 @@ display current directory content in long format
 Welcome creates a directory in /tmp/
 7 Script moves the file betty from /tmp/ to /tmp/my_first_directory
 8 Script that delete the file betty
+9 Script deletes directory my_first_directory
