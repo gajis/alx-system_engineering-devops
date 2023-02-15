@@ -11,3 +11,4 @@ script that displays a xonfused smiley
 13 Script that takes a list of words and print only words that appear once
 14 Script display lines containing the pattern root from file /etc/passwd
 Script display number of lines that contain the pattern "bin" in file /etc/passwd
+16 Script display lines containing the pattern "root" and 3 lines after them
