@@ -15,3 +15,4 @@ Script display number of lines that contain the pattern "bin" in file /etc/passw
 17 Script display all the lines in the file /etc/passwd that do not contain the pattern "bin" 
 18 Script displays all lines of file /etc/ssh/sshd_config
 19 Script replaces all characters A and C from input to Z and e
+20 Script that removes all letters c and C from input
