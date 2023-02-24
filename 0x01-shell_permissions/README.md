@@ -12,3 +12,4 @@ script that print user group
 11 Script that adds execute permission to all subdirectories
 17 Script that plays Star Wars episode in terminal
 16 Script that changes the owner of file hello to betty
+15 Script that changes the owner and group owner
