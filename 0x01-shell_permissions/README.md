@@ -9,3 +9,4 @@ script that print user group
 8 Script that sets permission to a file
 9 Script that sets the mode of a file
 10 Script that sets the mode of a file
+11 Script that adds execute permission to all subdirectories
