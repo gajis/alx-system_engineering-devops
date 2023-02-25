@@ -6,3 +6,4 @@ Welcome creates a directory in /tmp/
 8 Script that delete the file betty
 9 Script deletes directory my_first_directory
 10 Script that changes the working directory to the previous one
+Script that lists all files
