@@ -12,3 +12,4 @@ Script that lists all files
 14 Script that copies all html files in working directory
 15 Script that moves all files beginning with uppercase letter
 101 Script that deletes all files in the current working directory
+102 Script that creates directories
