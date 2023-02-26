@@ -10,3 +10,4 @@ Script that lists all files
 12 Script that prints file type
 13 Script creates a symbolic link to /bin/ls
 14 Script that copies all html files in working directory
+15 Script that moves all files beginning with uppercase letter
