@@ -8,3 +8,4 @@ Welcome creates a directory in /tmp/
 10 Script that changes the working directory to the previous one
 Script that lists all files
 12 Script that prints file type
+13 Script creates a symbolic link to /bin/ls
