@@ -13,3 +13,4 @@ Script that lists all files
 15 Script that moves all files beginning with uppercase letter
 101 Script that deletes all files in the current working directory
 102 Script that creates directories
+103 command that list all the files and directories of the current directory
