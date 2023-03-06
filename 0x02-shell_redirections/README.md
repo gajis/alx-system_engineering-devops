@@ -21,3 +21,4 @@ Script display number of lines that contain the pattern "bin" in file /etc/passw
 11 script that count the number of directories and sub directories
 101 script that lists all the files with a .gif extension
 102 Acrostic
+103 script that parses web servers logs in TSV format
