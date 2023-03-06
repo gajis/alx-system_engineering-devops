@@ -18,3 +18,4 @@ Script display number of lines that contain the pattern "bin" in file /etc/passw
 20 Script that removes all letters c and C from input
 9 Script that duplicate the last line of the file iacta
 17 script that displaus all lines of file
+11 script that count the number of directories and sub directories
